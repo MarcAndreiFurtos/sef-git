@@ -3,6 +3,6 @@ module com.example.demoer {
     requires javafx.fxml;
 
 
-    opens com.example.demoer to javafx.fxml;
-    exports com.example.demoer;
+    opens loose.oose.fis.lab.student.manager.demoer to javafx.fxml;
+    exports loose.oose.fis.lab.student.manager.demoer;
 }

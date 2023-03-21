@@ -1,4 +1,4 @@
-package com.example.demoer;
+package loose.oose.fis.lab.student.manager.demoer;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
